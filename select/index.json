@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "光の言葉",
+  "base_artist": "Shinsei kamattechan",
+  "createdAt": "2026-03-30T08:54:00.514392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光の言葉",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/01_光の言葉_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "光の言葉",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": false,
+      "path": "select/02_光の言葉_Shinsei_Kamattechan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光の言葉 - 2023 Remaster",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/03_光の言葉_-_2023_Remaster_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光の言葉 - 2023 Remaster",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/04_光の言葉_-_2023_Remaster_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光の言葉",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_光の言葉_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "光の言葉",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_02_光の言葉_神聖かまってちゃん.txt"
+    }
+  ]
+}
